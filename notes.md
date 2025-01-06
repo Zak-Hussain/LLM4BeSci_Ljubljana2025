@@ -1,6 +1,9 @@
 ## General
-Integrate HF API for Llama 3
-Add advanced exercises
+- Change to llama 3.2?:
+  - day_3a
+  - day_4a
+  - day_4b with a bit of editing
+  - 
 
 ## Day 1
 Add slide on benefits of open-source
