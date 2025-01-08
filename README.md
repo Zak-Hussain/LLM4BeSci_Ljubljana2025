@@ -78,6 +78,8 @@ The course grade will be determined based on the quality of a project pitch at t
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
 
 ### Installation Instructions
+
+#### Google Colab and GitHub Repository
 0. If you do not have a Google account, you will need to create one (this can be deleted after the workshop).
 1. Navigate to Google Drive (https://drive.google.com/).
 2. In the top-left, click New > More > Colaboratory. If you do not see Colaboratory, you may need to click "Connect more apps", 
@@ -95,7 +97,12 @@ drive.mount("/content/drive")
 !git clone https://github.com/Zak-Hussain/LLM4BeSci_Ljubljana2025
 ```
 5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_Ljubljana2025". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
-6. Open the folder `day_1` and then the `day_1.ipynb` notebook. A new Colab window will open.
-7. Run the first cell of the notebook to install the required packages. This may take a few minutes and ask for you to give permission to access your Google Drive. 
 
-You are now ready to start the exercises!
+You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
+
+#### Hugging Face and Meta Llama License
+6. Make sure you have a hugging Face account (https://huggingface.co/join).
+7. Go to the [`meta-llama/Llama-3.2-3B-Instruct` model page](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) and fill in the 'COMMUNITY LICENSE AGREEMENT' form at the top of the page to get access to the model (this may take a couple of days).
+8. Once you have been granted access to the model, you can navigate to [your Hugging Face profile settings](https://huggingface.co/settings/tokens) to generate an API token (+Create new token). Set the token type to 'Read' and give it a name (e.g., 'LLM4BeSci_Ljubljana2025').
+
+You are now ready to work through all the exercises in the course! 
