@@ -1,9 +1,5 @@
 ## General
-- Change to llama 3.2?:
-  - day_3a
-  - day_4a
-  - day_4b with a bit of editing
-  - 
+- Change to llama 3.2 for day_5 
 
 ## Day 1
 Add slide on benefits of open-source
