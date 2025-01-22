@@ -1,9 +1,6 @@
 ## General
-- Change to llama 3.2 for day_5 
+- Reduce difficulty / python-specificity of bonus exercises 
 
-## Day 1
-Add slide on benefits of open-source
+## Day 3 
+- Presentation from Zak was a bit too short, make longer with examples on white board 
 
-## Day 4
-Add a slide showing output distributions under different temperatures
-Add num_beams (and maybe top_k) to exercise
