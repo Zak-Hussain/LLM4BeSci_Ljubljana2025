@@ -12,11 +12,11 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 1
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1.pdf)<br>
+09:45 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 01:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1_hf.pdf)<br>
+01:00 PM - 01:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
 01:45 PM - 02:00 PM: Setup Colab<br>
 02:00 PM - 02:15 PM: Break<br>
 02:15 PM - 02:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
@@ -51,7 +51,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Exercise: Numeracy](day_4/day_4a.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4a.ipynb)<br>
+01:00 PM - 02:00 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4b.ipynb)<br>
 02:00 PM - 02:30 PM: Walkthrough<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 03:15 PM - 04:00 PM: Consulting<be>
